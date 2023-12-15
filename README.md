@@ -18,7 +18,7 @@ make install
 
 # EDA
 
-I tried to leave all my reflections and thoughts in the comments in the [notebook](./notebooks/Senior_MLE_Interview.ipynb). Of course, there was no time to go
+I tried to leave all my reflections and thoughts in the comments in the [notebook](./notebooks/solution_sketch.ipynb). Of course, there was no time to go
 really deep and I tried to leave only the essentials.
 
 # Architecture
